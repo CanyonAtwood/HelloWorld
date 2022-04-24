@@ -2,9 +2,9 @@
 This is a basic Hello world program. The purpose is to demonstrate the use of Visual Studio Code, GitHub, and Python integrated together.
 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+You can watch a demo of my  software program here
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZMgnzGykAvM)
 
 # Development Environment
 
